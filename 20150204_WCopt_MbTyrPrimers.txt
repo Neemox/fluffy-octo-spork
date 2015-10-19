@@ -1,0 +1,5 @@
+1 gatacggtccagtttacgmnngtagttgtacagggtcggmnncagcatcggacgcaggca
+2 gcagccgctgcccatctgmnngaamnngaccatggtaaattcttc
+3 gatgtccagggtgtcgccgwataccatgcagctgtcgcc
+4 caggctgaccgggcctacmnnggcgctgctcagttccag
+5 gccgaagccggcgccgatmnncggtttgtcgatgcccca
