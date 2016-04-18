@@ -4,3 +4,5 @@ def protein(prot_sequence):
 
 	spaces = ' '.join(s)
 	print(spaces)
+
+	
